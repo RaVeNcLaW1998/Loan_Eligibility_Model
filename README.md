@@ -4,6 +4,11 @@ This project is a machine learning web app built using **Streamlit** that predic
 
 ---
 
+## 🚀 Live Demo
+
+🔗 [Click here to open the app on Streamlit Cloud](https://loaneligibilitymodel-huhjakuuavvvpvwgvczvcq.streamlit.app)
+---
+
 ## 🚀 Project Features
 
 - Trains a logistic regression model on `credit.csv` (stored in `data/raw/`)
